@@ -1,0 +1,4 @@
+Steps:
+ - cd to project directory
+ - in python3 use
+	python http.server 8888 &
